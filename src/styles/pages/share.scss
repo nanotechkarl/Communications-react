@@ -1,0 +1,34 @@
+.share-page {
+    transform: translate(0, 100px);
+
+    .add-share {
+        background-color: #bfbfbf;
+        height: 30px;
+        width: 110px;
+    }
+    
+    .remove {
+        cursor: pointer;
+    }
+    
+    table {
+        display: block;
+        height: 154px;
+        overflow-y: scroll;
+    }
+    
+    th {
+        width: 30% !important;
+    }
+
+    .choose-user-div {
+        border: 1px solid black;
+        padding: 20px;
+        border-radius: 5px;
+    }
+
+    #select-users {
+        width: 150px;
+        text-align: center;
+    }
+}

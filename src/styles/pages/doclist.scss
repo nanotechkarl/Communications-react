@@ -1,0 +1,96 @@
+.doclist-page{
+    transform: translate(0, 100px);
+
+    .header-shared-div {
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    
+    .button-blue {
+        width: 150px;
+        text-align: left;
+        height: 27px;
+        border-radius: 5px;
+        float: left;
+        transform: translate(3px, -30px);
+        background-color: #66ffff;
+    }
+    
+    .file-description-text {
+        width: 68%;
+        margin-left: 20px;
+    }
+    
+    .choose-file-div {
+        margin-top: 20px;
+    }
+    
+    .choose-file-label {
+        margin-left: 20px;
+        margin-right: 33px;
+    }
+    
+    ::-webkit-file-upload-button {
+        border-radius: 10px;
+        background: #bfbfbf;
+        margin-right: 50px;
+        cursor: pointer;
+    }
+    
+    .button-secondary {
+        width: 120px;
+        text-align: center;
+        height: 27px;
+        border-radius: 10px;
+        float: left;
+        background-color: #bfbfbf;
+    }
+    
+    .upload-footer {
+        display: flex;
+        justify-content: left;
+    }
+    
+    .edit {
+        cursor: pointer;
+    }
+    
+    .edit-footer {
+        margin-left: 25px;
+        height: 80px;
+    }
+    
+    .button-sm {
+        width: 90px;
+    }
+    
+    .modal-edit-size {
+        height: 250px !important;
+    }
+    
+    .delete {
+        cursor: pointer;
+    }
+    
+    table {
+        display: block;
+        height: 154px;
+        overflow-y: auto;
+    }
+    
+    th {
+        width: 30% !important;
+    }
+    
+    .revert {
+        color: blue;
+        cursor: pointer;
+    }
+    
+    .file-upload-label {
+        margin-left: 34px;
+        margin-right: 30px;
+    }
+}
+
+

@@ -1,0 +1,20 @@
+.users-page {
+    transform: translate(0, 30px);
+
+    .users-header-div {
+        margin-top: 70px;
+        margin-left: 20px;
+    }
+    
+    table {
+        display: block;
+        max-height: 424px;
+        overflow-y: auto;
+    }
+    
+    .delete {
+        background-color: transparent !important;
+        cursor: pointer;
+    }
+
+}

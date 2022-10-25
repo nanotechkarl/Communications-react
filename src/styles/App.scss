@@ -1,0 +1,17 @@
+@use './global.scss';
+@use './centered.scss';
+
+// pages
+@use './pages/welcome.scss';
+@use './pages/groupchat.scss';
+@use './pages/users.scss';
+@use './pages/loginsuccess.scss';
+@use './pages/edituser.scss';
+@use './pages/doclist.scss';
+@use './pages/share.scss';
+
+//components
+@use './components/navbar.scss';
+@use './components/form.scss';
+@use './components/table.scss';
+@use './components/modal.scss'

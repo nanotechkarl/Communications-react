@@ -1,0 +1,58 @@
+.form {
+    .form-div {
+        margin-top: 30px;
+    }
+    
+    .input-div {
+        transform: translate(-40px);
+    }
+    
+    .email-div,
+    .password-div,
+    .name-div,
+    .confirm-password-div {
+        margin-bottom: 20px;
+    }
+    
+    .password-div {
+        transform: translate(-17px);
+    }
+    
+    .confirm-password-div {
+        transform: translate(-50px);
+    }
+    
+    .name-div {
+        transform: translate(-18px);
+    }
+    
+    label {
+        margin-right: 20px;
+    }
+    
+    .input-text {
+        border: 2px solid black;
+        border-radius: 5px;
+        height: 30px;
+    }
+    
+    .button-primary {
+        background-color: #66ffff ;
+    }
+
+    .err-name {
+        margin-left: 20px;
+    }
+
+    .err-email {
+        margin-left: 10px;
+    }
+
+    .err-password {
+        margin-left: 45px;
+    }
+
+    .err-confirm-password {
+        margin-left: 130px;
+    }
+}

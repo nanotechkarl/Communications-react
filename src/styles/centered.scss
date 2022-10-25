@@ -1,0 +1,24 @@
+.centered {
+    text-align: center;
+    
+    .header-div {
+        margin-top: 60px;
+    }
+    
+    .header-welcome-div {
+        margin-top: 130px;
+    }
+    
+    .header-nav-div {
+        margin-top: 90px;
+    }
+    
+    .button-primary {
+        border-radius: 10px;
+        background-color: transparent;
+        font-weight: bold;
+        height: 35px;
+        width: 125px;
+    }
+}
+

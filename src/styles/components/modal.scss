@@ -1,0 +1,74 @@
+.modal-header {
+    border-bottom: 2px solid black !important;
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+
+}
+
+.modal-title {
+    font-size:large !important;
+    transform: translate(30px);
+}
+
+
+.btn-close {
+    border: 2px solid black !important;
+}
+
+// .question-mark {
+//     display: inline-block;
+// }
+
+.modal-body {
+    text-align: center;
+    padding-top: 40px !important;
+    padding-bottom: 20px !important;
+    transform: translate(-10px);
+
+}
+
+.modal-footer {
+    display: flex;
+    justify-content: center;
+    border-top: 0px !important;
+    transform: translate(-30px);
+
+}
+
+.modal-upload {
+    .file-upload-div {
+        transform: translate(14px,30px);
+    }
+
+    ::-webkit-file-upload-button {
+        border-radius: 10px;
+        background: #bfbfbf;
+        margin-right: 50px;
+        cursor: pointer;
+    }
+
+    .file-description-text {
+        width: 300px;
+    }
+}
+
+.modal-footer {
+    .upload-footer {
+        transform: translate(-180px);
+
+        button {
+            background: #bfbfbf !important;
+        }
+
+        input {
+            background: #bfbfbf !important;
+        }
+
+        .button-upload {
+            width: 120px;
+        }
+    }
+}

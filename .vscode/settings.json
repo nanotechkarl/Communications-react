@@ -1,0 +1,11 @@
+{
+  "workbench.settings.editor": "json",
+  "workbench.settings.useSplitJSON": true,
+  "editor.foldingImportsByDefault": true,
+  "editor.folding": true,
+  "editor.foldingStrategy": "indentation",
+  "editor.foldingHighlight": true,
+  "explicitFolding.autoFold": "none",
+  "explicitFolding.wildcardExclusions": ["javascriptreact"],
+  "dimmer.enabled": false
+}
